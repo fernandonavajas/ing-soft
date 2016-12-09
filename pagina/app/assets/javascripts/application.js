@@ -13,4 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+// = require adminlte 
+// = require jQuery-2.1.4.min
 //= require_tree .
